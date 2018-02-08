@@ -1,0 +1,9 @@
+E:\kirichenec\GoogleDrive\Projects\UniversalKLibrary\UniversalKLibrary.Standard\obj\Release\netstandard2.0\UniversalKLibrary.Standard.csprojResolveAssemblyReference.cache
+E:\kirichenec\GoogleDrive\Projects\UniversalKLibrary\UniversalKLibrary.Standard\obj\Release\netstandard2.0\UniversalKLibrary.Standard.csproj.CoreCompileInputs.cache
+E:\kirichenec\GoogleDrive\Projects\UniversalKLibrary\UniversalKLibrary.Standard\obj\Release\netstandard2.0\UniversalKLibrary.Standard.AssemblyInfoInputs.cache
+E:\kirichenec\GoogleDrive\Projects\UniversalKLibrary\UniversalKLibrary.Standard\obj\Release\netstandard2.0\UniversalKLibrary.Standard.AssemblyInfo.cs
+E:\kirichenec\GoogleDrive\Projects\UniversalKLibrary\UniversalKLibrary.Standard\bin\Release\netstandard2.0\UniversalKLibrary.Standard.deps.json
+E:\kirichenec\GoogleDrive\Projects\UniversalKLibrary\UniversalKLibrary.Standard\bin\Release\netstandard2.0\UniversalKLibrary.Standard.dll
+E:\kirichenec\GoogleDrive\Projects\UniversalKLibrary\UniversalKLibrary.Standard\bin\Release\netstandard2.0\UniversalKLibrary.Standard.pdb
+E:\kirichenec\GoogleDrive\Projects\UniversalKLibrary\UniversalKLibrary.Standard\obj\Release\netstandard2.0\UniversalKLibrary.Standard.dll
+E:\kirichenec\GoogleDrive\Projects\UniversalKLibrary\UniversalKLibrary.Standard\obj\Release\netstandard2.0\UniversalKLibrary.Standard.pdb

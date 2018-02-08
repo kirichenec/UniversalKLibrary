@@ -1,0 +1,6 @@
+E:\kirichenec\GoogleDrive\LittleProjects\UniversalKLibrary\UniversalKLibrary.Classic\bin\Debug\UniversalKLibrary.Classic.dll
+E:\kirichenec\GoogleDrive\LittleProjects\UniversalKLibrary\UniversalKLibrary.Classic\bin\Debug\UniversalKLibrary.Classic.pdb
+E:\kirichenec\GoogleDrive\LittleProjects\UniversalKLibrary\UniversalKLibrary.Classic\obj\Debug\UniversalKLibrary.Classic.csprojResolveAssemblyReference.cache
+E:\kirichenec\GoogleDrive\LittleProjects\UniversalKLibrary\UniversalKLibrary.Classic\obj\Debug\UniversalKLibrary.Classic.csproj.CoreCompileInputs.cache
+E:\kirichenec\GoogleDrive\LittleProjects\UniversalKLibrary\UniversalKLibrary.Classic\obj\Debug\UniversalKLibrary.Classic.dll
+E:\kirichenec\GoogleDrive\LittleProjects\UniversalKLibrary\UniversalKLibrary.Classic\obj\Debug\UniversalKLibrary.Classic.pdb

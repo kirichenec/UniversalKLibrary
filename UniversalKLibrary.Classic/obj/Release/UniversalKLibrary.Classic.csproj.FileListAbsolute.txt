@@ -1,0 +1,14 @@
+E:\kirichenec\GoogleDrive\LittleProjects\UniversalKLibrary\UniversalKLibrary.Classic\bin\Release\UniversalKLibrary.Classic.dll
+E:\kirichenec\GoogleDrive\LittleProjects\UniversalKLibrary\UniversalKLibrary.Classic\bin\Release\UniversalKLibrary.Classic.pdb
+E:\kirichenec\GoogleDrive\LittleProjects\UniversalKLibrary\UniversalKLibrary.Classic\obj\Release\UniversalKLibrary.Classic.csproj.CoreCompileInputs.cache
+E:\kirichenec\GoogleDrive\LittleProjects\UniversalKLibrary\UniversalKLibrary.Classic\obj\Release\UniversalKLibrary.Classic.dll
+E:\kirichenec\GoogleDrive\LittleProjects\UniversalKLibrary\UniversalKLibrary.Classic\obj\Release\UniversalKLibrary.Classic.pdb
+E:\kirichenec\GoogleDrive\LittleProjects\UniversalKLibrary\UniversalKLibrary.Classic\obj\Release\UniversalKLibrary.Classic.csprojResolveAssemblyReference.cache
+E:\kirichenec\GoogleDrive\Projects\UniversalKLibrary\UniversalKLibrary.Classic\bin\Release\UniversalKLibrary.Classic.dll
+E:\kirichenec\GoogleDrive\Projects\UniversalKLibrary\UniversalKLibrary.Classic\bin\Release\UniversalKLibrary.Classic.pdb
+E:\kirichenec\GoogleDrive\Projects\UniversalKLibrary\UniversalKLibrary.Classic\bin\Release\Newtonsoft.Json.dll
+E:\kirichenec\GoogleDrive\Projects\UniversalKLibrary\UniversalKLibrary.Classic\bin\Release\Newtonsoft.Json.xml
+E:\kirichenec\GoogleDrive\Projects\UniversalKLibrary\UniversalKLibrary.Classic\obj\Release\UniversalKLibrary.Classic.csprojResolveAssemblyReference.cache
+E:\kirichenec\GoogleDrive\Projects\UniversalKLibrary\UniversalKLibrary.Classic\obj\Release\UniversalKLibrary.Classic.csproj.CoreCompileInputs.cache
+E:\kirichenec\GoogleDrive\Projects\UniversalKLibrary\UniversalKLibrary.Classic\obj\Release\UniversalKLibrary.Classic.dll
+E:\kirichenec\GoogleDrive\Projects\UniversalKLibrary\UniversalKLibrary.Classic\obj\Release\UniversalKLibrary.Classic.pdb
